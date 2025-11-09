@@ -1,0 +1,3 @@
+# Minimal: standard library only
+# Optional for ML experiments:
+scikit-learn==1.3.2
